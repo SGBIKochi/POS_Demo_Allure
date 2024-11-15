@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"87d29820431678a048284c4340175f9c","name":"POS Retail Scenario","statistic":{"failed":1,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":6}},{"uid":"240fd5eebdc0a231e38cf7ef33bec366","name":"POS Retail Expected PASS","statistic":{"failed":0,"broken":0,"skipped":0,"passed":6,"unknown":0,"total":6}}]}
